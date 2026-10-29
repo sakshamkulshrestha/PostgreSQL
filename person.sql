@@ -16,7 +16,7 @@ insert into person (id, first_name, last_name, gender, email, date_of_birth, cou
 insert into person (id, first_name, last_name, gender, email, date_of_birth, country_of_birth) values (7, 'Trixi', 'Venour', 'Female', 'tvenour6@ehow.com', '2026-01-29', 'China');
 insert into person (id, first_name, last_name, gender, email, date_of_birth, country_of_birth) values (8, 'Jeffrey', 'Grover', 'Male', null, '2026-04-07', 'Saudi Arabia');
 insert into person (id, first_name, last_name, gender, email, date_of_birth, country_of_birth) values (9, 'Eadith', 'Campling', 'Female', null, '2026-05-02', 'France');
-insert into person (id, first_name, last_name, gender, email, date_of_birth, country_of_birth) values (10, 'Judi', 'Bryer', 'Female', null, '2026-06-06', 'Bolivia');
+insert into person (id, first_name, last_name, gender, email, date_of_birth, country_of_birth) values (10, 'Judie', 'Bryer', 'Female', null, '2026-06-06', 'Bolivia');
 insert into person (id, first_name, last_name, gender, email, date_of_birth, country_of_birth) values (11, 'Siobhan', 'Rathjen', 'Female', 'srathjena@posterous.com', '2026-10-07', 'Chile');
 insert into person (id, first_name, last_name, gender, email, date_of_birth, country_of_birth) values (12, 'Sela', 'Haly', 'Female', null, '2026-08-07', 'China');
 insert into person (id, first_name, last_name, gender, email, date_of_birth, country_of_birth) values (13, 'Kylie', 'Terzi', 'Female', 'kterzic@amazon.de', '2026-08-14', 'Bulgaria');
